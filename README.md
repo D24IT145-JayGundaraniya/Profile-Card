@@ -17,8 +17,8 @@ This is a simple React application that displays a profile card with user detail
 
 ## Features
 - Displays user information dynamically.
-- Responsive design using Tailwind CSS.
-- Modular component structure.
+- Use functional component
+- Use of props.
 
 ## Technologies Used
 - React
