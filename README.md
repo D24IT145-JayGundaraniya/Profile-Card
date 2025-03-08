@@ -29,12 +29,12 @@ This is a simple React application that displays a profile card with user detail
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/profile-card.git
+   git clone https://github.com/D24IT145-JayGundaraniya/Profile-Card.git
    ```
 
 2. Navigate to the project directory:
    ```sh
-   cd profile-card
+   cd Profile-Card
    ```
 
 3. Install dependencies:
